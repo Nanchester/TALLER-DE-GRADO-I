@@ -1,0 +1,4 @@
+category,filename,synthetic_demo,duration_s,sample_rate_hz,rms,rms_dbfs,peak,dominant_hz,spectral_centroid_hz,band_0_300_pct,band_300_1000_pct,band_1000_3000_pct,band_3000_8000_pct
+machinery,machinery/SYNTHETIC_DEMO_machinery.wav,True,3.0,16000,0.177296,-15.026,0.4004822,93.75,213.86,97.23,0.25,0.73,1.79
+speech,speech/SYNTHETIC_DEMO_speech.wav,True,3.0,16000,0.161816,-15.82,0.3079529,218.75,442.6,42.49,48.58,8.18,0.0
+alarms,alarms/SYNTHETIC_DEMO_alarms.wav,True,3.0,16000,0.1317548,-17.605,0.2499695,1000.0,1000.45,0.01,49.98,50.01,0.01
